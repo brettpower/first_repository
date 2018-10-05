@@ -4,7 +4,9 @@
 
 # Ask the user for an input
 
-#swift
+### THIS IS NOT COMPLETE 
+
+
 var geeting = "Welcome to MiStory, the fastest growing story telling service"
 var greeting1 = prompt_user("Create an account")
 var greeting2 = prompt_user("Please enter a password")
