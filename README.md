@@ -1,6 +1,6 @@
 # first_repository
 ## This is Brett Power's first idea on GitHub
-## I want to make seniors lives more enjoyable offering comedic fill in yourself stories they can participate in and relate to many different topics they choose
+## I want to make seniors lives more enjoyable offering voice comedic fill-in-yourself stories they can participate in on google home and the apple home pod
 
 # Ask the user for an input
 
